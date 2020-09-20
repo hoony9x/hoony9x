@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to my profile page. 👋
 
 <!--
 **hoony9x/hoony9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📊 GitHub Stats
+[![hoony9x's github stats](https://github-readme-stats.vercel.app/api?username=hoony9x&show_icons=true&hide_border=true)](https://github.com/hoony9x)
+
+## 🌐 Languages
+### 🗣️ Language I can "speak"
+* **Korean** 🇰🇷 - Native
+* **English** 🇺🇸 - Secondary Language
