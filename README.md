@@ -24,6 +24,7 @@
     - [Backend (REST API) Repository](https://github.com/HYU-OMS/hyu_oms_api_v3)
     - [Frontend Repository](https://github.com/HYU-OMS/hyu_oms_webapp_v4)
 - "Spotboard DOMjudge converter" 업데이트 ([더 보기](other_experiences/spotboard_domjudge_converter_contribution.md))
+- Online Judge 채점 모듈 개발 ([더 보기](other_experiences/personal_online_judge_module.md))
 
 ### 🎓 Educations
 - [한양대학교 소프트웨어대학 컴퓨터소프트웨어학부](http://cs.hanyang.ac.kr) / 졸업
