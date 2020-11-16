@@ -16,16 +16,14 @@
     - On-Demand Image Resize 모듈 개발 ([더 보기](work_experiences/nolbal_image_resize_module.md))
     - Web Backend 에 REST API 추가 ([더 보기](work_experiences/nolbal_rest_api.md))
 
-### Other Experiences (including personal projects)
-- 2020 하계 Naver Hackday 참가자
-- 2019 동계 Naver Hackday 참가자
-- 2017 동계 Naver Hackday 참가자
-- 2016 하계 Naver Hackday 참가자
+### Other Experiences (Including personal projects & other contributions)
+- `2020 하계`, `2019 동계`, `2017 동계`, `2016 하계` Naver Hackday 참가자
 - 한양대학교 프로그래밍 대회 운영 Member / 2014.11 - 2017.12
     - 대회 시스템 인프라 세팅 및 운영
-- [대학교 축제 주점용 주문관리시스템](https://github.com/HYU-OMS) 개발 및 운영 / 2014.07 - 2019.09
+- [대학교 축제 주점용 주문관리시스템](https://github.com/HYU-OMS) 개발 및 운영 ([더 보기](other_experiences/hyu_oms.md)) / 2014.07 - 2019.09
     - [Backend (REST API) Repository](https://github.com/HYU-OMS/hyu_oms_api_v3)
     - [Frontend Repository](https://github.com/HYU-OMS/hyu_oms_webapp_v4)
+- "Spotboard DOMjudge converter" 업데이트 ([더 보기](other_experiences/spotboard_domjudge_converter_contribution.md))
 
 ### 🎓 Educations
 - [한양대학교 소프트웨어대학 컴퓨터소프트웨어학부](http://cs.hanyang.ac.kr) / 졸업
@@ -35,6 +33,6 @@
 - Kubernetes
 - Docker
 
-### 🗣️ `Natural Languages` I can "speak"
+### 🗣️ Natural Languages I can "Speak"
 * **Korean** 🇰🇷 - Native
 * **English** 🇺🇸 - Secondary Language
