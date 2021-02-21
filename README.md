@@ -1,6 +1,6 @@
 ### 👋 Hello, I am `Kihoon Han (한기훈)`. 
 
-Currently working at [NAVER Corp](https://navercorp.com/en) - [@naver](https://github.com/naver) as a BE developer.
+Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://github.com/naver)) as a BE developer.
 
 ### 📊 GitHub Stats
 [![hoony9x's github stats](https://github-readme-stats.vercel.app/api?username=hoony9x&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=4C4C4C&icon_color=A6A6A6)](https://github.com/hoony9x)
