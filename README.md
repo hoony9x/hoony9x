@@ -7,7 +7,12 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 
 ### 💻 Work Experiences
 - [NAVER Corp](https://navercorp.com/en) / 2020.12.07 - Present
-    - **Platform Labs / Plasma** - [NAVER Pay](https://pay.naver.com/about) next generation project.
+    - **Platform Labs, Plasma** - [NAVER Pay](https://pay.naver.com/about) next generation project.
+        - Related Posts
+            - [\[네피셜\] 플랫폼 개발자의 커머스 서비스 개발기](https://blog.naver.com/naver_diary/222059276316)
+        - Tech Stacks
+            - Spring Boot
+            - Spring Batch
 - [Kakao Corp](https://www.kakaocorp.com/?lang=en) / 2020.06.29 - 2020.09.28
     - **ID card dev. part** - Develop Admin System for brand new service ["KakaoTalk Wallet (카카오톡 지갑)"](https://www.kakaocorp.com/event/wallet/index)
         - Tech Stacks
@@ -46,11 +51,14 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ### 🎓 Educations
 - [Department of Computer Science, Hanyang University](http://cs.hanyang.ac.kr/eng/) - Bachelor's degree / Graduated
     - 2013.03 - 2020.08
+- [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship
+    - 2017.07 - 2017.08
 
 ### 🌱 I’m currently learning...
 - Kubernetes
 - Docker
 - Spring Framework
+- Go
 
 ### 🗣️ Natural Languages I can "Speak"
 * **Korean** 🇰🇷 - Native
