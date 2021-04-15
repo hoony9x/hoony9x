@@ -10,8 +10,6 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ### 💻 Work Experiences
 - [NAVER Corp](https://navercorp.com/en) / 2020.12.07 - Present
     - **Platform Labs, Plasma** - [NAVER Pay](https://pay.naver.com/about) next generation project.
-        - Related Posts
-            - [\[네피셜\] 플랫폼 개발자의 커머스 서비스 개발기](https://blog.naver.com/naver_diary/222059276316)
         - Tech Stacks
             - Spring Boot
             - Spring Batch
