@@ -2,7 +2,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoony9x&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://github.com/naver)) as a BE developer.
+Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://github.com/naver)) as a Backend Developer.
+
+## 🖥  Tech Stack
+![Spring](https://img.shields.io/badge/-Spring-green)
+![Java](https://img.shields.io/badge/-Java-red)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
+![Python](https://img.shields.io/badge/-Python-grey)
+![AWS](https://img.shields.io/badge/-AWS-green)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-indigo)
 
 ### 📊 GitHub Stats
 [![hoony9x's github stats](https://github-readme-stats.vercel.app/api?username=hoony9x&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=4C4C4C&icon_color=A6A6A6)](https://github.com/hoony9x)
@@ -13,6 +22,10 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
         - Tech Stacks
             - Spring Boot
             - Spring Batch
+            - Kubernetes
+            - Docker
+            - Java
+            - Kotlin
 - [Kakao Corp](https://www.kakaocorp.com/?lang=en) / 2020.06.29 - 2020.09.28
     - **ID card dev. part** - Develop Admin System for brand new service ["KakaoTalk Wallet (카카오톡 지갑)"](https://www.kakaocorp.com/event/wallet/index)
         - Tech Stacks
@@ -51,15 +64,17 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ### 🎓 Educations
 - [Department of Computer Science, Hanyang University](http://cs.hanyang.ac.kr/eng/) - Bachelor's degree / Graduated
     - 2013.03 - 2020.08
-- [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship
+- [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship"
     - 2017.07 - 2017.08
 
 ### 🌱 I’m currently learning...
 - Kubernetes
 - Docker
 - Spring Framework
-- Go
 
+### 📚 I’m currently preparing...
+- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+ 
 ### 🗣️ Natural Languages I can "Speak"
 * **Korean** 🇰🇷 - Native
 * **English** 🇺🇸 - Secondary Language
