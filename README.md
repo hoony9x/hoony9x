@@ -4,7 +4,7 @@
 
 Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://github.com/naver)) as a Backend Developer.
 
-## 🖥  Tech Stack
+### 🖥  Tech Stack
 ![Spring](https://img.shields.io/badge/-Spring-green)
 ![Java](https://img.shields.io/badge/-Java-red)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
