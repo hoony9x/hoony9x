@@ -67,14 +67,20 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 - [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship"
     - 2017.07 - 2017.08
 
+### 📝 Certifications
+- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+    - Valid from **`October 30, 2021`** to **`October 29, 2024`**
+    - [See credential](https://www.credly.com/badges/87b5b5e6-cd70-4e85-a45d-0cbe024dcb66/public_url)
+
 ### 🌱 I’m currently learning...
 - Kubernetes
 - Docker
 - Spring Framework
 
 ### 📚 I’m currently preparing...
-- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
- 
+- ~~[Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)~~
+    - CKA certification completed at `October 30, 2021`
+
 ### 🗣️ Natural Languages I can "Speak"
 * **Korean** 🇰🇷 - Native
 * **English** 🇺🇸 - Secondary Language
