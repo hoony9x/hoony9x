@@ -8,7 +8,6 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ![Spring](https://img.shields.io/badge/-Spring-green)
 ![Java](https://img.shields.io/badge/-Java-red)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
-![Python](https://img.shields.io/badge/-Python-grey)
 ![AWS](https://img.shields.io/badge/-AWS-green)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-indigo)
@@ -71,6 +70,9 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 - [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
     - Valid from **`October 30, 2021`** to **`October 29, 2024`**
     - [See credential](https://www.credly.com/badges/87b5b5e6-cd70-4e85-a45d-0cbe024dcb66/public_url)
+- [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
+    - Valid from **`April 24, 2022`** to **`April 24, 2025`**
+    - [See credential](https://www.credly.com/badges/06e5d8d9-561f-423c-afd8-a739981758d8/public_url)
 
 ### 🌱 I’m currently learning...
 - Kubernetes
@@ -80,6 +82,9 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ### 📚 I’m currently preparing...
 - ~~[Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)~~
     - CKA certification completed at `October 30, 2021`
+- ~~[Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)~~
+    - CKA certification completed at `April 24, 2022`
+- [Certified Kubernetes Security Specialist (CKS)](https://www.cncf.io/certification/cks/)
 
 ### 🗣️ Natural Languages I can "Speak"
 * **Korean** 🇰🇷 - Native
