@@ -17,7 +17,13 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 
 ### 💻 Work Experiences
 - [NAVER Corp](https://navercorp.com/en) / 2020.12.07 - Present
-    - **Platform Labs, Plasma** - [NAVER Pay](https://pay.naver.com/about) next generation project.
+    - (2021.03.01 - Present) **Platform Labs, Plasma** - NAVER Pay next generation project.
+        - Participate in the project "Re-implement NAVER Pay Point System".
+            - Use sharded RDB to reduce database load.
+            - Use Spring Batch with Reactive Stream DB connection and Kotlin Coroutine to migrate massive data into new system.
+            - Implement new API for brand-new service. (not released yet)
+            - Convert Java codes into Kotlin.
+            - Change structure of running tests to improve stability of project CI/CD system.
         - Tech Stacks
             - Spring Boot
             - Spring Batch
