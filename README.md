@@ -60,9 +60,9 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
     - 2016 Summer
 - Hanyang University Programming Contest System Manager / 2014.11 - 2017.12
     - Setup & operate contest system infrastructure.
-- Develop & operate [Pub Management System for Annual Festival in University](https://github.com/HYU-OMS) / 2014.07 - 2019.09
-    - [Backend (REST API) Repository](https://github.com/HYU-OMS/hyu_oms_api_v3)
-    - [Frontend Repository](https://github.com/HYU-OMS/hyu_oms_webapp_v4)
+- Develop & operate [Pub Management System for Annual Festival in University](https://hyu-oms.com) / 2014.07 - 2019.09
+    - [Backend (REST API) Repository](https://github.com/hoony9x/hyu_oms_api_v3)
+    - [Frontend Repository](https://github.com/hoony9x/hyu_oms_webapp_v4)
 - Update ["Spotboard DOMjudge converter"](https://github.com/spotboard/spotboard)
 - Develop "Online Judge - Code Judge Module" for personal practice
 
