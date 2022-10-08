@@ -12,9 +12,6 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-indigo)
 
-### 📊 GitHub Stats
-[![hoony9x's github stats](https://github-readme-stats.vercel.app/api?username=hoony9x&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=4C4C4C&icon_color=A6A6A6)](https://github.com/hoony9x)
-
 ### 💻 Work Experiences
 - [NAVER Corp](https://navercorp.com/en) / 2020.12.07 - Present
     - (2021.03.01 - 2022.06.30) **Platform Labs, Plasma** - NAVER Pay next generation project.
