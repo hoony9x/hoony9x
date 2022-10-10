@@ -65,14 +65,6 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 
 ***
 
-## 🎓 Educations
-- [Department of Computer Science, Hanyang University](http://cs.hanyang.ac.kr/eng/) - Bachelor's degree / Graduated
-  - 2013.03 - 2020.08
-- [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship"
-  - 2017.07 - 2017.08
-
-***
-
 ## 📝 Certifications
 - [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
   - Valid from **`October 30, 2021`** to **`October 29, 2024`**
@@ -95,6 +87,14 @@ Currently working at [NAVER Corp](https://navercorp.com/en) ([@naver](https://gi
 - ~~[Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)~~
   - CKA certification completed at `April 24, 2022`
 - [Certified Kubernetes Security Specialist (CKS)](https://www.cncf.io/certification/cks/)
+
+***
+
+## 🎓 Educations
+- [Department of Computer Science, Hanyang University](http://cs.hanyang.ac.kr/eng/) - Bachelor's degree / Graduated
+  - 2013.03 - 2020.08
+- [University of California, Irvine](https://uci.edu/) - Participant of "2017 International Summer Undergraduate Research Fellowship"
+  - 2017.07 - 2017.08
 
 ***
 
