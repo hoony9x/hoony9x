@@ -24,7 +24,7 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
 ## 💻 Work Experiences
 
 ### [NAVER Corp](https://navercorp.com/en) / 2020.12 - Present
-- **Improve internal tech platform. (2022.07 - Present)**
+- **[NAVER Corp](https://navercorp.com/en) internal platform team (2022.07 - Present)**
   - Implement K8s Dynamic Admission Handler for internal clusters.
   - Construct "K8s Control Plane in another K8s" to reduce resources of control-plane nodes.
   - Worked on a PoC to implement a new internal PaaS based on the K8s Operator.
