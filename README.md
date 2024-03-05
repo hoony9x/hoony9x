@@ -25,12 +25,12 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
 
 ### [NAVER Corp](https://navercorp.com/en) / 2020.12 - Present
 - **[NAVER Corp](https://navercorp.com/en) internal platform team (2022.07 - Present)**
-  - Implement K8s Dynamic Admission Handler for internal clusters.
-  - Construct "K8s Control Plane in another K8s" to reduce resources of control-plane nodes.
+  - Implemented K8s Dynamic Admission Handler for internal clusters.
+  - Implemented "K8s Control Plane in another K8s" to improve the resource usage efficiency of K8s control-plane components.
   - Worked on a PoC to implement a new internal PaaS based on the K8s Operator.
 - **[NAVER Pay](https://pay.naver.com/about) next generation project. (2021.03 - 2022.06)**
   - Implemented batch for "Cancellation due to Network Timeout" (망상취소 배치) to deal with external API instability integrated with NAVER Pay Point system.
-  - Converted all codes written in Java to Kotlin.
+  - Converted all codes written in Java to Kotlin to improve productivity and to reduce quantity of codes.
   - Refactored structure of running tests to improve stability \& performance of project CI.
   - Implemented a migration batch for massive data using Reactive Stream DB connection.
     - Use Spring Batch with Reactive Stream DB connection to migrate massive data into new system.
