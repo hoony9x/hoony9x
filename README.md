@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoony9x&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I am currently working as a software engineer at [NAVER Corp](https://navercorp.com/en) ([@naver](https://github.com/naver)).
+I am currently working as a software engineer at [FuriosaAI](https://furiosa.ai) ([@furiosa-ai](https://github.com/furiosa-ai)).
 
-More than 3 years of software engineering experience with specialties in backend development, CI/CD operation, and K8s based environment.
+More than 3 years of software engineering experience with specialties in backend development, CI/CD operation, and Containers & K8s based environment.
 
 Always interested in Cloud-Native Environment projects like Kubernetes.
 
@@ -14,17 +14,17 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-indigo)
 ![Go](https://img.shields.io/badge/-Go-blue)
-![Spring](https://img.shields.io/badge/-Spring-green)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
-![Java](https://img.shields.io/badge/-Java-red)
-![AWS](https://img.shields.io/badge/-AWS-green)
+![Rust](https://img.shields.io/badge/-Rust-red)
 
 ***
 
 ## 💻 Work Experiences
 
-### [NAVER Corp](https://navercorp.com/en) / 2020.12 - Present
-- **[NAVER Corp](https://navercorp.com/en) internal platform team (2022.07 - Present)**
+### [FuriosaAI](https://furiosa.ai) / 2024.07 - Present
+- **[FuriosaAI](https://furiosa.ai) Platform Team, Cloud Native WG (2024.07 - Present)**
+
+### [NAVER Corp](https://navercorp.com/en) / 2020.12 - 2024.07
+- **[NAVER Corp](https://navercorp.com/en) internal platform team (2022.07 - 2024.07)**
   - Implemented K8s Dynamic Admission Handler for internal clusters.
   - Implemented "K8s Control Plane in another K8s" to improve the resource usage efficiency of K8s control-plane components.
   - Worked on a PoC to implement a new internal PaaS based on the K8s Operator.
@@ -51,22 +51,6 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
 
 ***
 
-## 💻 Other Experiences (Before Graduation)
-- NAVER Campus HackDay Participant
-  - 2020 Summer
-  - 2019 Winter
-  - 2017 Winter
-  - 2016 Summer
-- Hanyang University Programming Contest System Manager / 2014.11 - 2017.12
-  - Setup & operate contest system infrastructure.
-- Develop & operate [Pub Management System for Annual Festival in University](https://hyu-oms.com) / 2014.07 - 2019.09
-  - [Backend (REST API) Repository](https://github.com/hoony9x/hyu_oms_api_v3)
-  - [Frontend Repository](https://github.com/hoony9x/hyu_oms_webapp_v4)
-- Update ["Spotboard DOMjudge converter"](https://github.com/spotboard/spotboard)
-- Develop "Online Judge - Code Judge Module" for personal practice
-
-***
-
 ## 📝 Certifications
 - [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
   - Valid from **`October 30, 2021`** to **`October 29, 2024`**
@@ -74,18 +58,6 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
 - [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
   - Valid from **`April 24, 2022`** to **`April 24, 2025`**
   - [See credential](https://www.credly.com/badges/06e5d8d9-561f-423c-afd8-a739981758d8/public_url)
-
-***
-
-## 🌱 I’m currently learning...
-![Docker](https://img.shields.io/badge/-Docker-blue)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-indigo)
-![Rust](https://img.shields.io/badge/-Rust-red)
-
-***
-
-## 📚 I’m currently preparing...
-
 
 ***
 
