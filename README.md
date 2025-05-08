@@ -48,7 +48,7 @@ Always interested in Cloud-Native Environment projects like Kubernetes.
     - Expired on October 30, 2024
     - [See credential](https://www.credly.com/badges/87b5b5e6-cd70-4e85-a45d-0cbe024dcb66/public_url)
 - [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
-    - Expires on April 24, 2025
+    - Expired on April 24, 2025
     - [See credential](https://www.credly.com/badges/06e5d8d9-561f-423c-afd8-a739981758d8/public_url)
 
 ***
